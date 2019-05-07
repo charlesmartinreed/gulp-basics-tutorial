@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/charlesmartinreed/gulp-basics-tutorial#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-image": "^4.4.1"
   }
 }
