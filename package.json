@@ -19,6 +19,7 @@
   "homepage": "https://github.com/charlesmartinreed/gulp-basics-tutorial#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
     "gulp-image": "^4.4.1",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2"
